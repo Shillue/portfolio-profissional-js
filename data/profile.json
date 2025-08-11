@@ -1,0 +1,115 @@
+{
+  "name": "Shilluê Silva",
+  "photo":"https://raw.githubusercontent.com/Shillue/portfolio-profissional-js/refs/heads/main/data/imgs/perfil/avatar.jpg",
+  "job": "Student Looking for Opportunity",
+  "location":"Viçosa do Ceará - CE",
+  "phone": "(85) 99969-2979",
+  "email": "shillue09@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/Shillue/portfolio-profissional-js/refs/heads/main/data/imgs/js.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/Shillue/portfolio-profissional-js/refs/heads/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/Shillue/portfolio-profissional-js/refs/heads/main/data/imgs/css.png"
+      },
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/Shillue/portfolio-profissional-js/refs/heads/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/Shillue/portfolio-profissional-js/refs/heads/main/data/imgs/git.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/Shillue/portfolio-profissional-js/refs/heads/main/data/imgs/github.png"
+      },
+      {
+        "name": "VSCode",
+        "logo": "https://raw.githubusercontent.com/Shillue/portfolio-profissional-js/refs/heads/main/data/imgs/vscode.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "https://raw.githubusercontent.com/Shillue/portfolio-profissional-js/refs/heads/main/data/imgs/mysql.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/Shillue/portfolio-profissional-js/refs/heads/main/data/imgs/react.png"
+      }
+    ],
+    "softSkills": [
+      "Organização",
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Comunicação"
+    ]
+  },
+  "languages": [
+    "Português - BR",
+    "Inglês (Básico)",
+    "Espanhol (Intermediário)"
+  ],
+  "education": [
+    {
+      "course": "Análise e Desenvolvimento de Sistemas",
+      "institution": "Anhanguera",
+      "period": "2019"
+    },
+    {
+      "course": "Pós-graduação em Engenharia de Software",
+      "institution": "Cenes",
+      "period": "2023"
+    },
+    {
+      "course": "Pós-graduação em Algoritmos e Estruturas de Dados",
+      "institution": "Cenes",
+      "period": "2023"
+    }
+  ],
+  "portfolio": [
+    {
+      "name": "Clone YouTube com HTML e CSS (DIO)",
+      "url": "https://github.com/Shillue/youtube-clone-html-css",
+      "demo":"https://shillue.github.io/youtube-clone-html-css/",
+      "github":true
+    },
+    {
+      "name": "Pokédex Interativa com JavaScript (DIO)",
+      "url": "https://github.com/Shillue/pokedex-js-dio",
+      "github":true
+    },
+    {
+      "name": "Yu-Gi-Oh Jo-Ken-Pô em JavaScript (DIO)",
+      "url": "https://github.com/Shillue/yu-gi-oh-jokenpo-js",
+      "github":true
+    },
+    {
+      "name": "Portfólio Front-end (DIO)",
+      "url": "https://github.com/Shillue/portfolio-front-end-dio",
+      "demo":"https://shillue.github.io/portfolio-front-end-dio/",
+      "github":true
+    },
+    {
+      "name": "Recriando o Wikipedia com Layout Moderno (DIO)",
+      "url": "https://github.com/Shillue/wikipedia-animes",
+      "demo":"https://shillue.github.io/wikipedia-animes/",
+      "github":true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Desenvolvedora Front-End em formação contínua",
+      "period": "2019 – Atualmente",
+      "description": "Apesar de ainda não ter atuado profissionalmente na área, sou formada em Análise e Desenvolvimento de Sistemas (2019) e possuo duas pós-graduações: uma em Engenharia de Software e outra em Algoritmos e Estruturas de Dados (2023). Desde então, venho aprofundando meus conhecimentos por meio de formações práticas, bootcamps e desenvolvimento de projetos próprios."
+    }
+  ]
+}
