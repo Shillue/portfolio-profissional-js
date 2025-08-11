@@ -30,7 +30,7 @@ Este projeto foi desenvolvido para o desafio "Publicando Seu Portfólio Profissi
 
 ---
 ## 📸 Preview  
-<img width="600" height="500" alt="perfil" src="https://github.com/user-attachments/assets/8832057c-0407-455b-9e2d-2f5aa4f59979" />
+<img width="600" height="500" alt="perfil" src="https://github.com/user-attachments/assets/a0c7b406-2660-46a6-908c-62d115dee65b" />
 
 ---
 
