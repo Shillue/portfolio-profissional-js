@@ -50,7 +50,6 @@ function updateLanguages(profileData){
 //education
 function updateEducation(profileData){
     const education = document.getElementById('profile.education');
-    console.log(education)
     education.innerHTML = profileData.education.map(ed => {
         return `
             <li>
@@ -98,6 +97,7 @@ professionalExperience.innerHTML = profileData.professionalExperience.map(experi
     updateSoftSkills(profileData)
     updateHardSkills(profileData)
     updateLanguages(profileData)
+    updateEducation(profileData)
     updatePortfolio(profileData)
     updateProfessionalExperience(profileData)
 })()
