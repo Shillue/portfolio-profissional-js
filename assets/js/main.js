@@ -50,6 +50,7 @@ function updateLanguages(profileData){
 //education
 function updateEducation(profileData){
     const education = document.getElementById('profile.education');
+    console.log(education)
     education.innerHTML = profileData.education.map(ed => {
         return `
             <li>
