@@ -44,7 +44,7 @@ Acesse aqui: [Ver Portfólio Online](https://shillue.github.io/portfolio-profiss
 
 1. Clone o repositório:  
 ```bash
-git clone https://github.com/Shillue/pokedex-js-dio.git
+git clone https://github.com/Shillue/portfolio-profissional-js.git
 ```
 2.Acesse o diretório do projeto:  
 ```bash
